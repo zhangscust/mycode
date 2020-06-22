@@ -1,0 +1,2 @@
+# mycode
+about javascript
